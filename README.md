@@ -1,4 +1,6 @@
-- 👋 Hola, soy @Ivonne-Scarlett
-- 👀 Estoy interesada en el desarrollo web Front-end
-- 📫 Si deseas que trabajemos juntos en algún proyecto, contactame en ivonne.scarlett01@gmail.com
+
+- 👋 Hi, I am @Ivonne-Scarlett
+- 💻 Fron-end Developer in SmartBamboo
+- 📱 iOS Developer in process 🪫
+- 📧 ivonne.scarlett01@gmail.com
 
